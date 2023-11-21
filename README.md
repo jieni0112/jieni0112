@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jieni0112
 - 👀 I’m interested in electronics, neuroscience, neural interface, rehabilitation 
-- 🌱 I’m currently learning neuromorphic processing and snn
+- 🌱 I’m currently learning neuroscience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
